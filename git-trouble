@@ -1,0 +1,4 @@
+#remove stash, remove local change to pull
+git stash
+git stash drop
+git pull
