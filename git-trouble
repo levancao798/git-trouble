@@ -2,3 +2,6 @@
 git stash
 git stash drop
 git pull
+#How to fix “modified content, untracked content” in git?
+git rm -rf --cached myuntrackedfolder #or Remove .git from subfolders
+
